@@ -1,8 +1,8 @@
 {
   "event_last_seen": {
-    "Nefertiti": 1793336400,
+    "Nefertiti": 1793354400,
     "Pumpkin Tendril": 1793347200,
-    "Scarecrow": 1793340000,
+    "Scarecrow": 1793354400,
     "Slenderman": 1793354400,
     "Snowman Head": 1793354400,
     "Werewoo": 1793354400
@@ -37,6 +37,21 @@
       "kind": "daily",
       "slots": [
         "I1"
+      ]
+    },
+    "Nefertiti": {
+      "coords": [
+        [
+          3000,
+          3000
+        ]
+      ],
+      "end": 1793358302.0,
+      "first_seen": 1793357900.2443492,
+      "ghost": true,
+      "kind": "event",
+      "slots": [
+        "OS"
       ]
     },
     "Pumpkin Tendril": {
@@ -75,6 +90,41 @@
         "ID"
       ]
     },
+    "Scarecrow": {
+      "coords": [
+        [
+          1051,
+          1003
+        ],
+        [
+          1048,
+          1001
+        ],
+        [
+          1053,
+          1018
+        ],
+        [
+          1036,
+          1011
+        ],
+        [
+          1051,
+          987
+        ],
+        [
+          1036,
+          993
+        ]
+      ],
+      "end": 1793361602.0,
+      "first_seen": 1793357900.2443492,
+      "ghost": false,
+      "kind": "event",
+      "slots": [
+        "I3"
+      ]
+    },
     "Slenderman": {
       "coords": [
         [
@@ -102,12 +152,13 @@
           994
         ]
       ],
-      "end": 1793358002.0,
-      "first_seen": 1793355458.2817392,
+      "end": 1793361602.0,
+      "first_seen": 1793357900.2443492,
       "ghost": false,
       "kind": "event",
       "slots": [
-        "I5"
+        "I5",
+        "I4"
       ]
     },
     "Snowman Head": {
@@ -137,13 +188,15 @@
           998
         ]
       ],
-      "end": 1793358002.0,
-      "first_seen": 1793355458.2817392,
+      "end": 1793361602.0,
+      "first_seen": 1793357900.2443492,
       "ghost": false,
       "kind": "event",
       "slots": [
         "I3",
-        "I4"
+        "I1",
+        "I4",
+        "I2"
       ]
     },
     "Volatile Leaper": {
