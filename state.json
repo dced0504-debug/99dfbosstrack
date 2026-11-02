@@ -225,6 +225,21 @@
         "I2"
       ]
     },
+    "Volatile Leaper": {
+      "coords": [
+        [
+          1020,
+          1025
+        ]
+      ],
+      "end": 1793672557.0,
+      "first_seen": 1793663113.328187,
+      "ghost": false,
+      "kind": "daily",
+      "slots": [
+        "I1"
+      ]
+    },
     "Werewoo": {
       "coords": [
         [
