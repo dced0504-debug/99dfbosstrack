@@ -24,6 +24,21 @@
   ],
   "last_report_hour": "2026-11-06T15",
   "seen_today": {
+    "Behemoth": {
+      "coords": [
+        [
+          1057,
+          1016
+        ]
+      ],
+      "end": 1793991169.0,
+      "first_seen": 1793980590.3658793,
+      "ghost": false,
+      "kind": "daily",
+      "slots": [
+        "I1"
+      ]
+    },
     "Pumpkin Queen": {
       "coords": [
         [
