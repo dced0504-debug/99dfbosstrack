@@ -54,6 +54,22 @@
         "I2"
       ]
     },
+    "Devil Hound": {
+      "coords": [
+        [
+          1053,
+          997
+        ]
+      ],
+      "end": 1795393297.0,
+      "first_seen": 1795384362.7909887,
+      "ghost": false,
+      "kind": "daily",
+      "slots": [
+        "I1",
+        "I9"
+      ]
+    },
     "Volatile Leaper": {
       "coords": [
         [
